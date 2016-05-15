@@ -1,0 +1,17 @@
+{
+  "name": "slack-read-outer-bot",
+  "version": "1.0.0",
+  "description": "read out slack message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-aplay": "^1.0.3",
+    "openjtalk": "^0.1.4",
+    "play-sound": "0.0.9",
+    "slack-client": "^2.0.4"
+  }
+}
