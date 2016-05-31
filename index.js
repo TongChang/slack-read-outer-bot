@@ -1,6 +1,6 @@
 'use strict';
 
-var readouter = require('./lib/slack-read-outer.js');
+const readouter = require('./lib/slack-read-outer.js');
 
 const main = () => {
   readouter.start();
