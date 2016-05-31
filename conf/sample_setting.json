@@ -1,0 +1,5 @@
+{
+  "botToken" : "your_bots_token",
+  "botUserId": "your_bots_user_id",
+  "channelId": "your_channel_id"
+}
