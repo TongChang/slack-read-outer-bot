@@ -1,0 +1,11 @@
+{
+  "appenders": [
+    {
+      "type": "dateFile",
+      "filename": "/var/log/slack-read-outer-bot.log",
+      "category": "system",
+      "numBackups": 7,
+      "pattern": "yyyy-MM-dd-hh"
+    }
+  ]
+}

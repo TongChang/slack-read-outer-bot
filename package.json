@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "log4js": "^1.1.1",
     "node-aplay": "^1.0.3",
     "openjtalk": "^0.1.4",
     "play-sound": "0.0.9",
