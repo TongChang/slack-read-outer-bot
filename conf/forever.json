@@ -1,7 +1,7 @@
 {
   "uid": "slack-read-outer-bot",
   "append": true,
-  "scriprtDir": "~/work/slack-read-outer-bot/",
+  "scriprtDir": "/home/pi/work/slack-read-outer-bot/",
   "script": "index.js",
   "watch": false,
   "logFile": "/var/log/slack-read-outer-bot.log",

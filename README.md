@@ -13,6 +13,7 @@
 * [hecomi/node-openjtalk: Node.js TTS module using OpenJTalk](https://github.com/hecomi/node-openjtalk)
 * [shime/play-sound: Play sounds by shelling out to one of the available audio players.](https://github.com/shime/play-sound)
 * [slackhq/node-slack-client: Slack client library for node.js](https://github.com/slackhq/node-slack-client)
+* nomiddlename/log4js-node: Port of Log4js to work with node.
 
 ## how to use
 
